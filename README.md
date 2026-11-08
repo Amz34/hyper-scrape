@@ -243,3 +243,7 @@ Distributed under the **Apache License 2.0**. See [`LICENSE`](LICENSE) for more 
 <div align="center">
   <sub>Maintained by <b>Aamir Zahran (@Amz34)</b> • Built for the Open Source AI Community</sub>
 </div>
+
+---
+
+Part of [my always-on agent stack](https://github.com/Amz34) · [Awesome Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) (135 live-checked building blocks).
