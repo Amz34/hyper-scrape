@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚡ HyperScrape
+<img src="assets/hyperscrape-banner.svg" alt="HyperScrape Logo Banner" width="100%"/>
+
+<br/>
 
 ### Ultra High-Throughput 3-Tier Web Extraction & AI RAG Ingestion Engine
 **Engineered for Autonomous AI Agents, LLM RAG pipelines, and Large-Scale Web Ingestion.**
