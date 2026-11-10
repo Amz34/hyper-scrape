@@ -23,6 +23,7 @@ dependencies = [
     "scrapling>=0.5.1",
     "curl-cffi>=0.7.0",
     "crawl4ai>=0.4.0",
+    "browserforge>=1.1.0",
     "lxml>=5.1.0"
 ]
 
